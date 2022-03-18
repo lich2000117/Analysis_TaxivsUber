@@ -1,6 +1,6 @@
 # The Underlying relations of Traditional Taxi Services And Competitive Shared-Riding Services: Understanding The Senario Where Shared-Riding Services Succeed And Providing Recommendations For Traditional Services Stakeholders
 
-## 1. Introduction.
+### 1. Introduction.
 As the technology briskly took a step forward over the decade, the life quality of citizens has been
 drastically improved. It has been addressed by several resources[2, 3] that the traditional taxi and
 high volume for-hire vehicle(FHV) services1 industry has been heavily affected and even overtaken by
@@ -16,7 +16,7 @@ technologies to their business and boost their services like HVFHV services do.
 
 - Full Report Link: https://www.overleaf.com/read/qwcptssmfnvg
 
-### MAST30034 Project 1 - Quantitative Analysis
+## MAST30034 Project 1 - Quantitative Analysis
 - Student Name: ChenghaoLi
 - Student ID: 1067999
 - Due Date: Friday 16th of August, 2021 11:59:00 am (AEST).
