@@ -105,7 +105,7 @@ Data has been standardized, mapping to standard normal distributions to enable u
 
 #### Selected Model
 
-$HVFHVPicks = -0.27 + 0.92*isHoliDay+0.86*YellowTaxiPicks+0.48*YellowTaxiDistance$
+$HVFHVPicks = - 0.27 + 0.92 \times isHoliDay + 0.86 \times YellowTaxiPicks + 0.48 \times YellowTaxiDistance$
 
 #### Linear Model Visualize and Diagnostics.
 
@@ -120,9 +120,10 @@ Model Statistics       |  Model Parameters
 <img src="./plots/InfluencePlot.png" width="800">
 
 ## Recommendations For Taxis Services
+After a series of analysis conducted above, here are some recommendations to our Taxi business Partner:
 ##### From technical levels: 
-- Equip advanced technologies such as easily used and customer favourable mobile Apps.
-- Algorithmic rating systems to make their service interact more with customers.
+- To enable public order the ride much more easily: Equip advanced technologies such as easily used and customer favourable mobile Apps.
+- Algorithmic rating systems to make their service interact more with customers and improve the general satisfaction and quality of the service.
 
 ##### Marketing levels: 
 - promotion campaign should focus more on leisure holiday-travelling topic to increase their trips volume.
