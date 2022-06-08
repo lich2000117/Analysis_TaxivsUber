@@ -45,12 +45,12 @@ Over 20GB+ data has been used in this project.
 - NYC Extreme Weather: https://www.weather.gov/okx/stormevents
 
 #### Data Geo-Visualize
-<img src="./plots/geo.png" width="600">
+<img src="./plots/geo.png" width="900">
 
 ## Data Exploration and Analysis
 
 #### Analysing Whole Time Frame trends
-<img src="./plots/trending.png" width="600">
+<img src="./plots/Trending.png" width="900">
 
 - Yellow/Green Taxi's business performance is descresing.
 - HVFHV (Share-riding services such as Uber)'s business performance is stable.
@@ -58,14 +58,14 @@ Over 20GB+ data has been used in this project.
 - Need further Analysis towards smaller time frame.
 
 #### General Traffic Conditions over the week
-<img src="./plots/Traffic_Average.png" width="400">
+<img src="./plots/Traffic_Average.png" width="600">
 
 - More traffic during the weekend.
 - Less traffic in the middle of the week (Wed, Thu, Fri).
 - Saturday is the peak day of the week.
 
 #### Analysing Week-Wise trends
-<img src="./plots/DataVisualization.png" width="600">
+<img src="./plots/DataVisualization.png" width="900">
 
 - Green/Yello Taxis are popular mostly towards Thursday and Friday.
 - Uber (HVFHV) got most businesses during the weekend and holiday.
@@ -86,7 +86,7 @@ Next, a multi-factor Linear model has been built to enable our taxi business par
 $Y = \beta X  + \epsilon$
 
 #### All parameters
-<img src="./plots/heatmap.png" width="800">
+<img src="./plots/heatmap.png" width="900">
 
 <img src="./plots/hist.png" width="800">
 
@@ -111,13 +111,13 @@ $HVFHVPicks = -0.27 + 0.92*isHoliDay+0.86*YellowTaxiPicks+0.48*YellowTaxiDistanc
 
 Model Statistics       |  Model Parameters
 :-------------------------:|:-------------------------:
-<img src="./plots/LinearRegressionResult1.png" width="300">   |  <img src="./plots/LinearRegressionResult2.png" width="300"> 
+<img src="./plots/LinearRegressionResult1.png" width="400">   |  <img src="./plots/LinearRegressionResult2.png" width="400"> 
 
 #### Linear Trend
-<img src="./plots/CCPR.png" width="600">
+<img src="./plots/CCPR.png" width="800">
 
 #### Influence Plot
-<img src="./plots/InfluencePlot.png" width="500">
+<img src="./plots/InfluencePlot.png" width="800">
 
 ## Recommendations For Taxis Services
 ##### From technical levels: 
